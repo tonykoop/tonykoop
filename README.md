@@ -59,6 +59,8 @@ A continuing engineering practice across drum and flute traditions on three cont
 
 - **[woodworking](https://github.com/tonykoop/woodworking)** — Segmented turning and assorted shop projects.
 - **[chessboard-table](https://github.com/tonykoop/chessboard-table)** — Segmented-construction wooden coffee table with inlaid chessboard.
+- **[sewing](https://github.com/tonykoop/sewing)** — Sewing projects and skills.
+- **[hexacopter](https://github.com/tonykoop/hexacopter)** — Multi-disciplinary aerial-photography platform: Phantom-era origin, Kickstarter-funded rebuild, 3D-printed gimbal, fully assembled but not yet flown. Cross-link potential to [wrfcoin](https://www.wrfcoin.com) as a mobile sensor payload.
 
 ---
 
