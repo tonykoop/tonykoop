@@ -11,7 +11,7 @@ To deploy:
 
 # Tony Koop
 
-**Mechanical R&D / Product Development — Medical Devices · Additive Manufacturing · AI-Augmented Engineering**
+**Mechanical R&D / Product Development — Medical Devices · Additive Manufacturing · AI-Augmented Engineering · Musical Instrument Maker · Yoga Teacher**
 
 📍 Santa Clara, CA · ✉️ [tonykoop@gmail.com](mailto:tonykoop@gmail.com) · [LinkedIn](https://linkedin.com/in/anthonykoop)
 
