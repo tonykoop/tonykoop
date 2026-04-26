@@ -36,16 +36,24 @@ I also teach yoga.
 - **[tumbler-oven](https://github.com/tonykoop/tumbler-oven)** — Reverse-engineering and repair of an industrial tumbler oven for processing powdered metal feedstock at Uniformity Labs.
 - **[metal-powder-flow-device](https://github.com/tonykoop/metal-powder-flow-device)** — A scientific measurement instrument for powdered-metal flow characterization, designed and hybrid AM + CNC fabricated at Uniformity Labs.
 
+### Engineering skills & R&D process
+
+- **[tensile-testing](https://github.com/tonykoop/tensile-testing)** — Mechanical-properties characterization across three roles: AM-printed metals at Uniformity Labs (TestResources), auto-injector aging studies at J&J (Zwick) including first-principles injection-time prediction via Hagen-Poiseuille + Darcy-Weisbach, and current UroLift R&D at Teleflex (Instron).
+- **[additive-manufacturing](https://github.com/tonykoop/additive-manufacturing)** — Metal LPBF process work at Uniformity Labs across AlSi10Mg, Ti64, 316/304 SS, Inconel 625 + 718, on SLM Solutions SLM 125 and SLM 280 machines.
+- **[cnc](https://github.com/tonykoop/cnc)** — Self-taught CAM + Haas ST-20Y / VF-2 operator at Uniformity Labs. AM-to-CNC post-processing workflow; honest learning-record style.
+
 ### Stave-built instruments
 
 A continuing engineering practice across drum and flute traditions on three continents:
 
 - **[ashiko-drum-workshop](https://github.com/tonykoop/ashiko-drum-workshop)** — January 2015 makerspace workshop I designed and led. 8 builders, 16 stave-built ashiko drums, full CAD + jig + BOM documentation.
-- **[djembe](https://github.com/tonykoop/djembe)** — Stave-built djembes — a technique I built drums with at Morgan Drums starting 2008. Predecessor methodology to the ashiko workshop.
+- **[djembe](https://github.com/tonykoop/djembe)** — Stave-built djembes — a technique I built drums with at Morgan Drums starting 2008. Predecessor methodology to the ashiko workshop. Includes a college Helmholtz-resonator bass-tone analysis with original handwritten derivations.
 - **[dundun](https://github.com/tonykoop/dundun)** — The cylindrical dual-headed bass drums of the West African djembe ensemble (kenkeni / sangban / doundounba).
 - **[didgeridoo](https://github.com/tonykoop/didgeridoo)** — Stave-built didgeridoo design rooted in a 2013 acoustic study covering 25 musical keys.
-- **[flutes](https://github.com/tonykoop/flutes)** — 150+ Native American style wooden flutes, with a parametric design table covering G3 to A4 and a build registry tracking every flute, recipient, wood species, and failure mode.
+- **[flutes](https://github.com/tonykoop/flutes)** — 150+ Native American style wooden flutes, with a parametric design table covering F4 to E5 and a build registry tracking every flute, recipient, wood species, and failure mode.
 - **[fujara](https://github.com/tonykoop/fujara)** — The Slovak overtone shepherd's flute (UNESCO Intangible Heritage). Tall harmonics-driven instrument; only flute in the portfolio whose melody comes from overblowing the harmonic series rather than finger holes.
+- **[tongue-drum](https://github.com/tonykoop/tongue-drum)** — Slit-drum tongue-drum builds with a [DoE protocol](https://github.com/tonykoop/tongue-drum/blob/main/study/README.md) for cantilever-scaling key prediction. Three planned drums: small (magazine baseline), medium (original bilateral-tongue design), large (original extended-range).
+- **[frame-drum](https://github.com/tonykoop/frame-drum)** — *(in development.)* Engineering documentation for stave-built frame drum construction.
 
 ### Personal craft
 
@@ -67,7 +75,7 @@ A continuing engineering practice across drum and flute traditions on three cont
 
 The instrument repos and the personal-craft repos are released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use freely with attribution.
 
-The four engineering repos that document work I did at past employers (`suction-cup-mount`, `retail-displays`, `tumbler-oven`, `metal-powder-flow-device`) include a `NOTICE.md` clarifying that the underlying designs and proprietary information remain the property of the respective employer or client. Those repositories are portfolio pieces documenting my role; they do not release proprietary CAD, drawings, or process documentation. CC-BY 4.0 in those repos applies only to my original written content and photographs.
+The engineering repositories that document work I did at past employers (`suction-cup-mount`, `retail-displays`, `tumbler-oven`, `metal-powder-flow-device`, `tensile-testing`, `additive-manufacturing`, `cnc`) clarify in their READMEs — and in `NOTICE.md` where applicable — that the underlying designs, formulations, test methods, programs, and proprietary information remain the property of the respective employer or client. Those repositories are portfolio pieces documenting my role; they do not release proprietary CAD, drawings, toolpaths, formulations, or test results. CC-BY 4.0 in those repos applies only to my original written content and photographs.
 
 ---
 
