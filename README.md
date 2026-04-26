@@ -44,7 +44,7 @@ A continuing engineering practice across drum and flute traditions on three cont
 - **[djembe](https://github.com/tonykoop/djembe)** — Stave-built djembes — a technique I built drums with at Morgan Drums starting 2008. Predecessor methodology to the ashiko workshop.
 - **[dundun](https://github.com/tonykoop/dundun)** — The cylindrical dual-headed bass drums of the West African djembe ensemble (kenkeni / sangban / doundounba).
 - **[didgeridoo](https://github.com/tonykoop/didgeridoo)** — Stave-built didgeridoo design rooted in a 2013 acoustic study covering 25 musical keys.
-- **[flutes](https://github.com/tonykoop/flutes)** — 50+ Native American style wooden flutes, with a parametric design table covering G3 to A4 and a build registry tracking every flute, recipient, wood species, and failure mode.
+- **[flutes](https://github.com/tonykoop/flutes)** — 150+ Native American style wooden flutes, with a parametric design table covering G3 to A4 and a build registry tracking every flute, recipient, wood species, and failure mode.
 - **[fujara](https://github.com/tonykoop/fujara)** — The Slovak overtone shepherd's flute (UNESCO Intangible Heritage). Tall harmonics-driven instrument; only flute in the portfolio whose melody comes from overblowing the harmonic series rather than finger holes.
 
 ### Personal craft
