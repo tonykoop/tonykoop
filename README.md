@@ -17,6 +17,16 @@ To deploy:
 
 ---
 
+## Start here
+
+If you're visiting for a specific reason, these are the quickest entry points:
+
+- Mechanical R&D / product development: [suction-cup-mount](https://github.com/tonykoop/suction-cup-mount), [metal-powder-flow-device](https://github.com/tonykoop/metal-powder-flow-device), [tumbler-oven](https://github.com/tonykoop/tumbler-oven)
+- Instrument design and craftsmanship: [ashiko-drum-workshop](https://github.com/tonykoop/ashiko-drum-workshop), [flutes](https://github.com/tonykoop/flutes), [djembe](https://github.com/tonykoop/djembe)
+- Wrfcoin origin story / computational prototype: [WSS-2019](https://github.com/tonykoop/WSS-2019)
+
+---
+
 ## What I do
 
 I'm a mechanical R&D engineer with 9+ years across medical device prototype development, laboratory testing, and metal additive manufacturing. Currently an R&D Technician on the **Teleflex UroLift 3** program in Pleasanton (via Oxford Corp). Before that: Mechanical Lab Technician at **Johnson & Johnson** (Milpitas), Metal 3D Print Specialist at **Uniformity Labs** (Fremont), Design Engineer at **Excel Plastics** (Minneapolis), and Senior Product Design Specialist at **Bracketron** (Edina, MN) — where I'm first-named inventor on **[US Patent 11,137,017 B2](https://patents.justia.com/patent/11137017)**.
@@ -38,9 +48,15 @@ I also teach yoga.
 
 ### Engineering skills & R&D process
 
-- **[tensile-testing](https://github.com/tonykoop/tensile-testing)** — Mechanical-properties characterization across three roles: AM-printed metals at Uniformity Labs (TestResources), auto-injector aging studies at J&J (Zwick) including first-principles injection-time prediction via Hagen-Poiseuille + Darcy-Weisbach, and current UroLift R&D at Teleflex (Instron).
-- **[additive-manufacturing](https://github.com/tonykoop/additive-manufacturing)** — Metal LPBF process work at Uniformity Labs across AlSi10Mg, Ti64, 316/304 SS, Inconel 625 + 718, on SLM Solutions SLM 125 and SLM 280 machines.
-- **[cnc](https://github.com/tonykoop/cnc)** — Self-taught CAM + Haas ST-20Y / VF-2 operator at Uniformity Labs. AM-to-CNC post-processing workflow; honest learning-record style.
+- **[metal-powder-flow-device](https://github.com/tonykoop/metal-powder-flow-device)** — A scientific measurement instrument for powdered-metal flow characterization, designed and hybrid AM + CNC fabricated at Uniformity Labs.
+- **[tumbler-oven](https://github.com/tonykoop/tumbler-oven)** — Reverse-engineering and repair of an industrial tumbler oven for processing powdered metal feedstock at Uniformity Labs.
+- **[retail-displays](https://github.com/tonykoop/retail-displays)** — In-store signage and fixture design at Excel Plastics for Target, Best Buy, Sephora, and other national retailers.
+
+Additional public documentation for tensile testing, additive manufacturing, and CNC process work is still being prepared.
+
+### Computational prototyping & Wrfcoin origins
+
+- **[WSS-2019](https://github.com/tonykoop/WSS-2019)** — Wolfram Summer School 2019 archive. Early Wrfcoin prototype connecting live weather-station data to a privately operated Wolfram-based blockchain, developed after an invitation from Stephen Wolfram at Collision 2019.
 
 ### Stave-built instruments
 
@@ -52,15 +68,13 @@ A continuing engineering practice across drum and flute traditions on three cont
 - **[didgeridoo](https://github.com/tonykoop/didgeridoo)** — Stave-built didgeridoo design rooted in a 2013 acoustic study covering 25 musical keys.
 - **[flutes](https://github.com/tonykoop/flutes)** — 150+ Native American style wooden flutes, with a parametric design table covering F4 to E5 and a build registry tracking every flute, recipient, wood species, and failure mode.
 - **[fujara](https://github.com/tonykoop/fujara)** — The Slovak overtone shepherd's flute (UNESCO Intangible Heritage). Tall harmonics-driven instrument; only flute in the portfolio whose melody comes from overblowing the harmonic series rather than finger holes.
-- **[tongue-drum](https://github.com/tonykoop/tongue-drum)** — Slit-drum tongue-drum builds with a [DoE protocol](https://github.com/tonykoop/tongue-drum/blob/main/study/README.md) for cantilever-scaling key prediction. Three planned drums: small (magazine baseline), medium (original bilateral-tongue design), large (original extended-range).
-- **[frame-drum](https://github.com/tonykoop/frame-drum)** — *(in development.)* Engineering documentation for stave-built frame drum construction.
+- Additional instrument documentation in progress: tongue drums and frame drums.
 
 ### Personal craft
 
 - **[woodworking](https://github.com/tonykoop/woodworking)** — Segmented turning and assorted shop projects.
 - **[chessboard-table](https://github.com/tonykoop/chessboard-table)** — Segmented-construction wooden coffee table with inlaid chessboard.
-- **[sewing](https://github.com/tonykoop/sewing)** — Sewing projects and skills.
-- **[hexacopter](https://github.com/tonykoop/hexacopter)** — Multi-disciplinary aerial-photography platform: Phantom-era origin, Kickstarter-funded rebuild, 3D-printed gimbal, fully assembled but not yet flown. Cross-link potential to [wrfcoin](https://www.wrfcoin.com) as a mobile sensor payload.
+- Additional documentation in progress: sewing projects and a hexacopter aerial-sensing platform with future Wrfcoin crossover potential.
 
 ---
 
