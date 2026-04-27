@@ -22,7 +22,9 @@ To deploy:
 If you're visiting for a specific reason, these are the quickest entry points:
 
 - Mechanical R&D / product development: [suction-cup-mount](https://github.com/tonykoop/suction-cup-mount), [metal-powder-flow-device](https://github.com/tonykoop/metal-powder-flow-device), [tumbler-oven](https://github.com/tonykoop/tumbler-oven)
+- Process and lab methodology: [tensile-testing](https://github.com/tonykoop/tensile-testing), [additive-manufacturing](https://github.com/tonykoop/additive-manufacturing), [cnc](https://github.com/tonykoop/cnc)
 - Instrument design and craftsmanship: [ashiko-drum-workshop](https://github.com/tonykoop/ashiko-drum-workshop), [flutes](https://github.com/tonykoop/flutes), [djembe](https://github.com/tonykoop/djembe)
+- Acoustics + experimental design: [tongue-drum](https://github.com/tonykoop/tongue-drum)
 - Wrfcoin origin story / computational prototype: [WSS-2019](https://github.com/tonykoop/WSS-2019)
 
 ---
@@ -31,7 +33,7 @@ If you're visiting for a specific reason, these are the quickest entry points:
 
 I'm a mechanical R&D engineer with 9+ years across medical device prototype development, laboratory testing, and metal additive manufacturing. Currently an R&D Technician on the **Teleflex UroLift 3** program in Pleasanton (via Oxford Corp). Before that: Mechanical Lab Technician at **Johnson & Johnson** (Milpitas), Metal 3D Print Specialist at **Uniformity Labs** (Fremont), Design Engineer at **Excel Plastics** (Minneapolis), and Senior Product Design Specialist at **Bracketron** (Edina, MN) — where I'm first-named inventor on **[US Patent 11,137,017 B2](https://patents.justia.com/patent/11137017)**.
 
-Outside professional engineering, I build wooden instruments — drums and flutes I've been making for 17+ years, starting at Morgan Drums in St. Paul. The two practices inform each other; the same engineering instincts that make a stave-built djembe sound right are what make a medical device prototype assemble cleanly.
+Outside professional engineering, I build wooden instruments — drums and flutes I've been making and studying for 16+ years, beginning with drum building at Morgan Drums in St. Paul. The two practices inform each other; the same engineering instincts that make a stave-built djembe sound right are what make a medical device prototype assemble cleanly.
 
 I also teach yoga.
 
@@ -48,11 +50,9 @@ I also teach yoga.
 
 ### Engineering skills & R&D process
 
-- **[metal-powder-flow-device](https://github.com/tonykoop/metal-powder-flow-device)** — A scientific measurement instrument for powdered-metal flow characterization, designed and hybrid AM + CNC fabricated at Uniformity Labs.
-- **[tumbler-oven](https://github.com/tonykoop/tumbler-oven)** — Reverse-engineering and repair of an industrial tumbler oven for processing powdered metal feedstock at Uniformity Labs.
-- **[retail-displays](https://github.com/tonykoop/retail-displays)** — In-store signage and fixture design at Excel Plastics for Target, Best Buy, Sephora, and other national retailers.
-
-Additional public documentation for tensile testing, additive manufacturing, and CNC process work is still being prepared.
+- **[tensile-testing](https://github.com/tonykoop/tensile-testing)** — ASTM E8/E8M tensile-testing methodology across metal AM, drug-delivery-device studies, and current medical-device R&D.
+- **[additive-manufacturing](https://github.com/tonykoop/additive-manufacturing)** — Metal LPBF process-development narrative plus the longer polymer-printing thread it grew out of.
+- **[cnc](https://github.com/tonykoop/cnc)** — Self-taught CAM programming, Haas operator work, workholding lessons, and AM-to-CNC post-processing.
 
 ### Computational prototyping & Wrfcoin origins
 
@@ -63,12 +63,16 @@ Additional public documentation for tensile testing, additive manufacturing, and
 A continuing engineering practice across drum and flute traditions on three continents:
 
 - **[ashiko-drum-workshop](https://github.com/tonykoop/ashiko-drum-workshop)** — January 2015 makerspace workshop I designed and led. 8 builders, 16 stave-built ashiko drums, full CAD + jig + BOM documentation.
-- **[djembe](https://github.com/tonykoop/djembe)** — Stave-built djembes — a technique I built drums with at Morgan Drums starting 2008. Predecessor methodology to the ashiko workshop. Includes a college Helmholtz-resonator bass-tone analysis with original handwritten derivations.
+- **[djembe](https://github.com/tonykoop/djembe)** — Stave-built djembes — a technique I built drums with at Morgan Drums starting in March 2010. Predecessor methodology to the ashiko workshop. Includes a college Helmholtz-resonator bass-tone analysis with original handwritten derivations.
 - **[dundun](https://github.com/tonykoop/dundun)** — The cylindrical dual-headed bass drums of the West African djembe ensemble (kenkeni / sangban / doundounba).
 - **[didgeridoo](https://github.com/tonykoop/didgeridoo)** — Stave-built didgeridoo design rooted in a 2013 acoustic study covering 25 musical keys.
 - **[flutes](https://github.com/tonykoop/flutes)** — 150+ Native American style wooden flutes, with a parametric design table covering F4 to E5 and a build registry tracking every flute, recipient, wood species, and failure mode.
 - **[fujara](https://github.com/tonykoop/fujara)** — The Slovak overtone shepherd's flute (UNESCO Intangible Heritage). Tall harmonics-driven instrument; only flute in the portfolio whose melody comes from overblowing the harmonic series rather than finger holes.
-- Additional instrument documentation in progress: tongue drums and frame drums.
+
+### Acoustics + experimental design
+
+- **[tongue-drum](https://github.com/tonykoop/tongue-drum)** — Three planned builds plus a proper design-of-experiments protocol for predicting tongue note from geometry, material, and strike data. The cleanest single repo for seeing acoustics, measurement planning, and cross-repo skill indexing in one place.
+- Additional instrument documentation in progress: frame drums.
 
 ### Personal craft
 
