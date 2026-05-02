@@ -74,6 +74,16 @@ A continuing engineering practice across drum and flute traditions on three cont
 - **[tongue-drum](https://github.com/tonykoop/tongue-drum)** — Three planned builds plus a proper design-of-experiments protocol for predicting tongue note from geometry, material, and strike data. The cleanest single repo for seeing acoustics, measurement planning, and cross-repo skill indexing in one place.
 - Additional instrument documentation in progress: frame drums.
 
+### Agent skills
+
+I build Claude Code and Codex agent skills to speed up the engineering and craft work. Each skill packages domain knowledge, scripts, and reference documents that an agent reads on demand.
+
+- **[instrument-maker](https://github.com/tonykoop/instrument-maker)** — A musical-instrument design skill that encodes 17 years of build experience: acoustic physics across 30+ instrument families (open/stopped pipes, cantilever beams, Helmholtz resonators, vibrating strings), empirical NAF bore-diameter corrections from 150+ flutes built, segmented-drum math, CNC strategy, and complete BOM/build-method generation. The repo holds **both runtime variants** side by side:
+  - [Codex variant](https://github.com/tonykoop/instrument-maker/tree/main/skills/codex/instrument-maker) — modular `SKILL.md` plus `references/`, `scripts/`, `agents/`, and `assets/` directories. The result of a major Codex-driven modularization that broke the monolith into focused reference docs the agent loads on demand.
+  - [Claude variant](https://github.com/tonykoop/instrument-maker/tree/main/skills/claude/instrument-maker) — single-file `SKILL.md` with all physics formulas inline. The original shape, kept around for runtime parity.
+
+  Drives the parametric design tables, build packets, and CAD scaffolds across the 40-plus instrument repos in this profile.
+
 ### Personal craft
 
 - **[woodworking](https://github.com/tonykoop/woodworking)** — Segmented turning and assorted shop projects.
